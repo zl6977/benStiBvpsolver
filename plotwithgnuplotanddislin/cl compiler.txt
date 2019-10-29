@@ -1,0 +1,1 @@
+cl plotwithdislin.cpp I dcppcodedislin link discpp.lib DEFAULTLIBgdi32.lib user32.lib

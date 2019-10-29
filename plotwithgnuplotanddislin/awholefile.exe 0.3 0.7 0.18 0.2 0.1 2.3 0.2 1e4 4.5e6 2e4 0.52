@@ -1,0 +1,1 @@
+function benStiCalc(max_k,D1,d1,d2,L1,L2,L3,EIp,Es,F,q)%总函数%
